@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nostroke22
+- 👀 I’m interested in learning more about programming. I have no clue what I'm doing.
