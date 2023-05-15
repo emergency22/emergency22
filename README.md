@@ -24,7 +24,7 @@ Software Engineer with a background in the emergency services. My primary hard s
 <h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#future-plans"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Future Plans...</h2>
 <ul dir="auto">  
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" style="user-select: text;">👩‍💻</g-emoji> I’m currently studying <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" style="user-select: text;">👩‍💻</g-emoji> Resume studying <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Udemy Spring Boot & Hibernate course</a></p>
 </li>    
 </ul>
 
