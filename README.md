@@ -6,7 +6,7 @@ Software Engineer with a background in the emergency services. My primary hard s
 <br>
 <a href="https://www.codewars.com/users/Alex_Murillo"><img alt="CodeWars" src="https://www.codewars.com/users/Alex_Murillo/badges/small"></a>
 <br>
-<a href="https://www.hackerrank.com/alex_d_murillo"><img alt="HackerRank" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg">HackerRank</a>
+<a href="https://www.hackerrank.com/alex_d_murillo"><img alt="HackerRank" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg"> HackerRank</a>
 <br>
 <a href="https://www.linkedin.com/in/alexdmurillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
