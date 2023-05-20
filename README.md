@@ -12,7 +12,7 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <a href="https://drive.google.com/open?id=1QKUL6rBR7zDANJ3TTF7U9QN8zRjVF0Pt&authuser=calyps007%40gmail.com&usp=drive_fs"><img alt="Resume" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 <br>
-Directly download my resume<a href="https://www.linkedin.com/in/alexdmurillo/"><img alt="LinkedIn"> here</a>.
+Directly download my resume<a href="https://www.linkedin.com/in/alexdmurillo/"><img alt=" here"></a>.
 
 
 <h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>What I'm Up To...</h2>
