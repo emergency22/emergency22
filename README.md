@@ -19,7 +19,7 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" style="user-select: text;">⚡</g-emoji> I'm taking two courses: 
+<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" style="user-select: text;">⚡</g-emoji> As of May 23, 2023, I'm currently taking two courses: 
 <li>  
 <a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p>
 </li>
@@ -29,8 +29,6 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 </li> 
   
 </ul>
-
-<br>
 
 <h2 dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Languages and Tools</h2>
 <div align="center" dir="auto">
