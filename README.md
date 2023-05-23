@@ -19,18 +19,16 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" style="user-select: text;">⚡</g-emoji> I'm taking a course: <a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p>
-</li>    
-</ul>
-
-
-<h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#future-plans"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Future Plans...</h2>
-<ul dir="auto">  
+<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" style="user-select: text;">⚡</g-emoji> I'm taking two courses: <a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p>
+</li>
+  
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" style="user-select: text;">👩‍💻</g-emoji> Resume studying: <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Udemy Spring Boot & Hibernate course</a></p>
-</li>    
+</li> 
+  
 </ul>
 
+<br>
 
 <h2 dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Languages and Tools</h2>
 <div align="center" dir="auto">
