@@ -1,4 +1,4 @@
-☕ Java | 💻 AWS Certified Cloud Practitioner | SQL |🌲 National Parks Enthusiast
+☕ Java | 💻 AWS Certified Cloud Practitioner |⚡SQL |🌲 National Parks Enthusiast
 <br>
 <br>
 Cloud Software Engineer with a background in the emergency services. My primary hard skill set is in Java and AWS, and my work history is in Emergency Management and as a First Responder. This has given me demonstrated ability to work in high-stress environments, collaborate well with others, and solve difficult problems.
@@ -19,7 +19,7 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" style="user-select: text;">⚡</g-emoji><b> As of June 17, 2023, I'm currently studying: </b>
+<p dir="auto"><b> As of June 17, 2023, I'm currently studying: </b>
 <li>
 <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Udemy Spring Boot & Hibernate course</a></p>
 </li> 
