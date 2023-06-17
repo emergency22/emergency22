@@ -19,12 +19,13 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" style="user-select: text;">⚡</g-emoji> As of June 17 2023, I'm currently studying:   
+<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" style="user-select: text;">⚡</g-emoji><b> As of June 17 2023, I'm currently studying: </b>
 <li>
 <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Udemy Spring Boot & Hibernate course</a></p>
 </li> 
 
-Recently Completed:
+<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" style="user-select: text;">⚡</g-emoji>
+<b>Recently Completed: </b>
 
 <li>  
 <del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p></del> [Completed June 2023]
