@@ -24,8 +24,11 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Udemy Spring Boot & Hibernate course</a></p>
 </li> 
 
-<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" style="user-select: text;">⚡</g-emoji>
-<b>Recently Completed: </b>
+
+
+</ul>
+<h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Recently Completed... </h2>
+<ul dir="auto">  
 
 <li>  
 <del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p></del> [Completed June 2023]
