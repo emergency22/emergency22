@@ -27,7 +27,19 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 Recently Completed:
 
 <li>  
-<del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p></del>
+<del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p></del> [Completed June 2023]
+</li>
+
+<li>  
+<del><a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">AWS Cloud Practitioner Certification</a></p></del> [Completed May 2023]
+</li>
+
+<li>  
+<del><a href="https://aws.amazon.com/training/digital/aws-cloud-quest/">AWS Cloud Quest: Cloud Practitioner</a></p></del> [Completed May 2023]
+</li>
+
+<li>  
+<del><a href="https://nashvillesoftwareschool.com/programs/software-engineering">Software Engineering with Java/AWS Specialization</a></p></del> [Completed Feb 2023]
 </li>
 
 </ul>
