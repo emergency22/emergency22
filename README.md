@@ -9,7 +9,7 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <a href="https://www.w3profile.com/alexdmurillo"><img alt="w3schools" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/768px-W3Schools_logo.svg.png" height="20" style="max-width: 100%;"></a>
 <br>
 <br>
-<a href="https://drive.google.com/open?id=1QKUL6rBR7zDANJ3TTF7U9QN8zRjVF0Pt&authuser=calyps007%40gmail.com&usp=drive_fs"><img alt="Resume" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alexdmurillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 <br>
 
