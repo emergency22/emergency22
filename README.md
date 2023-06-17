@@ -2,6 +2,11 @@
 <br>
 <br>
 Cloud Software Engineer with a background in the emergency services. My primary hard skill set is in Java and AWS, and my work history is in Emergency Management and as a First Responder. This has given me demonstrated ability to work in high-stress environments, collaborate well with others, and solve difficult problems.
+<br>
+<br>
+<a href="https://www.linkedin.com/in/alexdmurillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
+<br>  
 
 <h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>What I'm Up To...</h2>
 <ul dir="auto">  
@@ -56,8 +61,4 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <a href="https://www.codewars.com/users/Alex_Murillo"><img alt="CodeWars" src="https://www.codewars.com/users/Alex_Murillo/badges/small"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/alex_d_murillo"><img alt="HackerRank" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" height="20" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3profile.com/alexdmurillo"><img alt="w3schools" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/768px-W3Schools_logo.svg.png" height="20" style="max-width: 100%;"></a>
-<br>
-<br>
-<a href="https://www.linkedin.com/in/alexdmurillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br>
-<br>  
+
