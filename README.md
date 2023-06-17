@@ -2,16 +2,6 @@
 <br>
 <br>
 Cloud Software Engineer with a background in the emergency services. My primary hard skill set is in Java and AWS, and my work history is in Emergency Management and as a First Responder. This has given me demonstrated ability to work in high-stress environments, collaborate well with others, and solve difficult problems.
-<br>
-<br>
-<a href="https://www.codewars.com/users/Alex_Murillo"><img alt="CodeWars" src="https://www.codewars.com/users/Alex_Murillo/badges/small"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/alex_d_murillo"><img alt="HackerRank" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" height="20" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3profile.com/alexdmurillo"><img alt="w3schools" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/768px-W3Schools_logo.svg.png" height="20" style="max-width: 100%;"></a>
-<br>
-<br>
-<a href="https://www.linkedin.com/in/alexdmurillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br>
-<br>
 
 <h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>What I'm Up To...</h2>
 <ul dir="auto">  
@@ -61,4 +51,13 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://camo.githubusercontent.com/c994f99958731f1dc803e2f9cb5bcd52a6a7cf95322cc7543e0c694abc4bd819/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f676e755f626173682d69636f6e2e737667" alt="Bash" height="30" data-canonical-src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" style="max-width: 100%;"></a>  
 <a href="https://www.linux.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/0d57a1013ca687b2df81dc1652bf33293b0d9e43d4745d7e70f33b0c79fef474/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667" alt="Linux" height="30" data-canonical-src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" style="max-width: 100%;"></a> <a href="https://github.com/"><img src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667" alt="Git" height="30" data-canonical-src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" style="max-width: 100%;"></a>   
 </div>  
+<br>
+<br>
+<a href="https://www.codewars.com/users/Alex_Murillo"><img alt="CodeWars" src="https://www.codewars.com/users/Alex_Murillo/badges/small"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/alex_d_murillo"><img alt="HackerRank" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" height="20" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3profile.com/alexdmurillo"><img alt="w3schools" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/768px-W3Schools_logo.svg.png" height="20" style="max-width: 100%;"></a>
+<br>
+<br>
+<a href="https://www.linkedin.com/in/alexdmurillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
 <br>  
