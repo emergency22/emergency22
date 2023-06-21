@@ -18,7 +18,7 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <li>
 <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Spring Boot & Hibernate course on Udemy</a></p>
 </li>
-</li>
+<li>
 <a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p>
 </li> 
 
