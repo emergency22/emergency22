@@ -18,15 +18,17 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <li>
 <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Spring Boot & Hibernate course on Udemy</a></p>
 </li>
-<li>
-<a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p>
-</li> 
+
 
 
 
 </ul>
 <h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Recently Completed... </h2>
 <ul dir="auto">  
+
+<li>  
+<del><a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p></del> [Completed June 2023]
+</li>
 
 <li>  
 <del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p></del> [Completed June 2023]
