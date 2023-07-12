@@ -31,6 +31,10 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 </li>
 
 <li>  
+<del><a href="https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html">AWS: Deploying a Hello World Application (Using SAM, IAM, and the AWS CLI)</a></p></del> [Completed July 2023]
+</li>
+
+<li>  
 <del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p></del> [Completed June 2023]
 </li>
 
