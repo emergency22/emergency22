@@ -27,11 +27,11 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <ul dir="auto">  
 
 <li>  
-<del><a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p></del> [Completed June 2023]
+<del><a href="https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html">AWS: Deploying a Hello World Application (Using SAM, IAM, and the AWS CLI)</a></p></del> [Completed July 2023]
 </li>
 
 <li>  
-<del><a href="https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html">AWS: Deploying a Hello World Application (Using SAM, IAM, and the AWS CLI)</a></p></del> [Completed July 2023]
+<del><a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p></del> [Completed June 2023]
 </li>
 
 <li>  
