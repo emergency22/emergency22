@@ -14,13 +14,17 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><b> As of July 25, 2023, I'm currently studying: </b>
+<p dir="auto"><b> As of July 25, 2023, I'm currently working on: </b>
 <li>
-<a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Spring Boot & Hibernate course on Udemy</a></p>
+<a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Studying a Spring Boot & Hibernate course on Udemy</a></p>
 </li>
 
 <li>
 <a href="https://scrimba.com/learn/learnreact">Continued learning React via a course at Scrimba.com</a></p>
+</li>
+
+<li>
+<p>Working on a full stack project that utilizes Java, Javascript, HTML, CSS, and an AWS Lambda. More on this to come.</p>
 </li>
 
 
