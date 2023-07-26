@@ -26,7 +26,9 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <li>
 <p>Working on a full stack project that utilizes Java, Javascript, HTML, CSS, and an AWS Lambda. More on this to come.</p>
 </li>
+<br>
 
+<p>Notes: I feel like I'm starting to turn a corner on two different fronts. I'm learning the value of declarative programming versus imperitive and statically typed languages versus dynamically typed. Pretty interesting.</p>
 
 
 
