@@ -28,7 +28,7 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 </li>
 <br>
 
-<p>Notes: I feel like I'm starting to turn a corner on two different fronts. I'm learning the value of declarative programming versus imperitive and statically typed languages versus dynamically typed. Pretty interesting.</p>
+<p>Notes: I feel like I'm starting to turn a corner on two different fronts. I'm learning the value of declarative programming versus imperitive, and statically typed versus dynamically typed languages. Pretty interesting.</p>
 
 
 
