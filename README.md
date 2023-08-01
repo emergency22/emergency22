@@ -23,6 +23,9 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <a href="https://scrimba.com/learn/learnreact">Continued learning React via a course at Scrimba.com</a></p>
 </li>
 
+<li>
+<a href="https://github.com/GabeGoesCoding/portfolio-website">Fellow NSS alum, Gabe Guio, and I are working on a portfolio website project using React. Work in progress!</a></p>
+</li>
 
 <br>
 
