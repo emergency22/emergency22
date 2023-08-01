@@ -23,9 +23,7 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 <a href="https://scrimba.com/learn/learnreact">Continued learning React via a course at Scrimba.com</a></p>
 </li>
 
-<li>
-<p>Working on a full stack project that utilizes Java, Javascript, HTML, CSS, and an AWS Lambda. More on this to come.</p>
-</li>
+
 <br>
 
 <p>Notes: I feel like I'm starting to turn a corner on two different fronts. I'm learning the value of declarative programming versus imperitive, and statically typed versus dynamically typed languages. Pretty interesting.</p>
@@ -34,7 +32,11 @@ Cloud Software Engineer with a background in the emergency services. My primary 
 
 </ul>
 <h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Recently Completed... </h2>
-<ul dir="auto">  
+<ul dir="auto">
+
+<li>  
+<del><a href="https://github.com/emergency22/TheResignator">I wanted to brush up on my skills, so I finished up a full stack project that utilizes Java, Javascript, HTML, CSS, and an AWS Lambda.</a></p></del> [Completed July 2023]
+</li>
 
 <li>  
 <del><a href="https://github.com/emergency22/learning-react">Followed along with a short Youtube video on basic React</a></p></del> [Completed July 2023]
