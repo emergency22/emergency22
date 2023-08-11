@@ -14,22 +14,20 @@ Software Engineer with a background in the emergency services. My primary hard s
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><b> As of July 31, 2023, I'm currently working on: </b>
+<p dir="auto"><b> As of August 10, 2023, I'm currently working on: </b>
 <li>
 <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Studying a Spring Boot & Hibernate course on Udemy</a></p>
 </li>
 
 <li>
-<a href="https://scrimba.com/learn/learnreact">Continued learning React via a course at Scrimba.com</a></p>
+Contining to learn React via a course at <a href="https://scrimba.com/learn/learnreact">Scrimba.com</a></p>
 </li>
 
-<li>
-<a href="https://github.com/GabeGoesCoding/portfolio-website">Fellow NSS alum, Gabe Guio, and I are working on a portfolio website project using React. Work in progress!</a></p>
-</li>
+
 
 <br>
 
-<p>Notes: I feel like I'm starting to turn a corner on two different fronts. I'm learning the value of declarative programming versus imperitive, and statically typed versus dynamically typed languages. Pretty interesting.</p>
+
 
 
 
@@ -37,20 +35,24 @@ Software Engineer with a background in the emergency services. My primary hard s
 <h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Recently Completed... </h2>
 <ul dir="auto">
 
-<li>  
-<del><a href="https://github.com/emergency22/TheResignator">I wanted to brush up on my skills, so I finished up a full stack project that utilizes Java, Javascript, HTML, CSS, and an AWS Lambda.</a></p></del> [Completed July 2023]
+<li>
+✅Fellow NSS alum, Gabe Guio, and I wrapped up a <a href="https://github.com/GabeGoesCoding/portfolio-website">portfolio website/template project</a> using React. With this template, I launched my personal portfolio website at <a href="www.alexdmurillo.com">www.alexdmurillo.com</a>.</p>
 </li>
 
 <li>  
-<del><a href="https://github.com/emergency22/learning-react">Followed along with a short Youtube video on basic React</a></p></del> [Completed July 2023]
+✅<a href="https://github.com/emergency22/TheResignator">I wanted to brush up on my skills, so I finished up a full stack project that utilizes Java, Javascript, HTML, CSS, and an AWS Lambda.</a></p> [Completed July 2023]
 </li>
 
 <li>  
-<del><a href="https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html">AWS: Deploying a Hello World Application (Using SAM, IAM, and the AWS CLI)</a></p></del> [Completed July 2023]
+✅<a href="https://github.com/emergency22/learning-react">Followed along with a short Youtube video on basic React</a></p> [Completed July 2023]
 </li>
 
 <li>  
-<del><a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p></del> [Completed June 2023]
+✅<a href="https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html">AWS: Deploying a Hello World Application (Using SAM, IAM, and the AWS CLI)</a></p> [Completed July 2023]
+</li>
+
+<li>  
+<a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p> [Completed June 2023]
 </li>
 
 <li>  
@@ -58,15 +60,15 @@ Software Engineer with a background in the emergency services. My primary hard s
 </li>
 
 <li>  
-<del><a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">AWS Cloud Practitioner Certification</a></p></del> [Completed May 2023]
+✅<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">AWS Cloud Practitioner Certification</a></p> [Completed May 2023]
 </li>
 
 <li>  
-<del><a href="https://aws.amazon.com/training/digital/aws-cloud-quest/">AWS Cloud Quest: Cloud Practitioner</a></p></del> [Completed May 2023]
+✅<a href="https://aws.amazon.com/training/digital/aws-cloud-quest/">AWS Cloud Quest: Cloud Practitioner</a></p> [Completed May 2023]
 </li>
 
 <li>  
-<del><a href="https://nashvillesoftwareschool.com/programs/software-engineering">Software Engineering with Java/AWS Specialization</a></p></del> [Completed Feb 2023]
+✅<a href="https://nashvillesoftwareschool.com/programs/software-engineering">Software Engineering with Java/AWS Specialization</a></p> [Completed Feb 2023]
 </li>
 
 </ul>
