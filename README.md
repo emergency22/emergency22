@@ -36,7 +36,7 @@ Contining to learn React via a course at <a href="https://scrimba.com/learn/lear
 <ul dir="auto">
 
 <li>
-✅Fellow NSS alum, Gabe Guio, and I wrapped up a <a href="https://github.com/GabeGoesCoding/portfolio-website">portfolio website/template project</a> using React. With this template, I launched my personal portfolio website at <a href="https://www.alexdmurillo.com">www.alexdmurillo.com</a>.</p>
+✅Fellow NSS alum, Gabe Guio, and I wrapped up a <a href="https://github.com/GabeGoesCoding/portfolio-website">portfolio website/template project</a> using React. With this template, I launched my personal portfolio website at <a href="https://www.alexdmurillo.com">www.alexdmurillo.com</a>. [Completed August 2023]</p>
 </li>
 
 <li>  
@@ -52,7 +52,7 @@ Contining to learn React via a course at <a href="https://scrimba.com/learn/lear
 </li>
 
 <li>  
-<a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p> [Completed June 2023]
+✅<a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p> [Completed June 2023]
 </li>
 
 <li>  
