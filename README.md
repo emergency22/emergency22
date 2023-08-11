@@ -54,7 +54,7 @@ Software Engineer with a background in the emergency services. My primary hard s
 </li>
 
 <li>  
-<del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p></del> [Completed June 2023]
+<del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">✅ Advanced SQL for Developers</a></p></del> [Completed June 2023]
 </li>
 
 <li>  
