@@ -16,7 +16,7 @@ Software Engineer with a background in the emergency services. My primary hard s
 
 <p dir="auto"><b> As of August 10, 2023, I'm currently working on: </b>
 <li>
-<a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Studying a Spring Boot & Hibernate course on Udemy</a></p>
+Studying a Spring Boot & Hibernate course on <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Udemy</a></p>
 </li>
 
 <li>
