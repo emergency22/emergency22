@@ -40,35 +40,35 @@ Contining to learn React via a course at <a href="https://scrimba.com/learn/lear
 </li>
 
 <li>  
-✅<a href="https://github.com/emergency22/TheResignator">I wanted to brush up on my skills, so I finished up a full stack project that utilizes Java, Javascript, HTML, CSS, and an AWS Lambda.</a></p> [Completed July 2023]
+✅<a href="https://github.com/emergency22/TheResignator">I wanted to brush up on my skills, so I finished up a full stack project that utilizes Java, Javascript, HTML, CSS, and an AWS Lambda.</a> [Completed July 2023]</p> 
 </li>
 
 <li>  
-✅<a href="https://github.com/emergency22/learning-react">Followed along with a short Youtube video on basic React</a></p> [Completed July 2023]
+✅<a href="https://github.com/emergency22/learning-react">Followed along with a short Youtube video on basic React</a> [Completed July 2023]</p>
 </li>
 
 <li>  
-✅<a href="https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html">AWS: Deploying a Hello World Application (Using SAM, IAM, and the AWS CLI)</a></p> [Completed July 2023]
+✅<a href="https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html">AWS: Deploying a Hello World Application (Using SAM, IAM, and the AWS CLI)</a>.  [Completed July 2023]</p>
 </li>
 
 <li>  
-✅<a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a></p> [Completed June 2023]
+✅<a href="https://www.udemy.com/course/docker-fast-track/">Docker Fast-Track course on Udemy</a>  [Completed June 2023]</p>
 </li>
 
 <li>  
-✅<del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p></del> [Completed June 2023]
+✅<del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p> [Completed June 2023]</del> 
 </li>
 
 <li>  
-✅<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">AWS Cloud Practitioner Certification</a></p> [Completed May 2023]
+✅<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">AWS Cloud Practitioner Certification</a> [Completed May 2023]</p> 
 </li>
 
 <li>  
-✅<a href="https://aws.amazon.com/training/digital/aws-cloud-quest/">AWS Cloud Quest: Cloud Practitioner</a></p> [Completed May 2023]
-</li>
+✅<a href="https://aws.amazon.com/training/digital/aws-cloud-quest/">AWS Cloud Quest: Cloud Practitioner</a> [Completed May 2023]
+</li></p> 
 
 <li>  
-✅<a href="https://nashvillesoftwareschool.com/programs/software-engineering">Software Engineering with Java/AWS Specialization</a></p> [Completed Feb 2023]
+✅<a href="https://nashvillesoftwareschool.com/programs/software-engineering">Software Engineering with Java/AWS Specialization</a> [Completed Feb 2023]</p> 
 </li>
 
 </ul>
