@@ -56,7 +56,7 @@ Contining to learn React via a course at <a href="https://scrimba.com/learn/lear
 </li>
 
 <li>  
-✅<del><a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a></p> [Completed June 2023]</del> 
+✅<a href="https://nashvillesoftwareschool.com/programs/advanced-sql-for-developers">Advanced SQL for Developers</a> [Completed June 2023] </p>
 </li>
 
 <li>  
