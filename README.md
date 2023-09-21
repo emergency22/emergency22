@@ -16,14 +16,20 @@ Full Stack Developer with a background in the emergency services. My primary har
 </li>  -->
 
 <p dir="auto"><b> As of September 20, 2023, I'm currently working on: </b>
-<li><p style="color: red;">On Hold </p>
+
+<li>
+ Experimenting with TAK and Node-Red to integrate 911 CAD data into Cursor on Target mapping.
+</li>
+
+ <!--
+<li>
 Studying a Spring Boot & Hibernate course on <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Udemy</a></p>
 </li>
 
 <li>
 Contining to learn React via a course at <a href="https://scrimba.com/learn/learnreact">Scrimba.com</a></p>
 </li>
-
+-->
 
 
 <br>
