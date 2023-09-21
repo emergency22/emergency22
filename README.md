@@ -16,7 +16,7 @@ Full Stack Developer with a background in the emergency services. My primary har
 </li>  -->
 
 <p dir="auto"><b> As of September 20, 2023, I'm currently working on: </b>
-<li><span style="color: red;">On Hold </span>
+<li><p style="color: red;">On Hold </p>
 Studying a Spring Boot & Hibernate course on <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Udemy</a></p>
 </li>
 
