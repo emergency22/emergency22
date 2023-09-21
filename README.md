@@ -15,8 +15,8 @@ Full Stack Developer with a background in the emergency services. My primary har
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><b> As of August 10, 2023, I'm currently working on: </b>
-<li>
+<p dir="auto"><b> As of September 20, 2023, I'm currently working on: </b>
+<li><color="red">On Hold </color>
 Studying a Spring Boot & Hibernate course on <a href="https://www.udemy.com/course/spring-hibernate-tutorial/">Udemy</a></p>
 </li>
 
