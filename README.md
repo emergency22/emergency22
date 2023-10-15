@@ -15,10 +15,10 @@ Full Stack Developer with a background in the emergency services. My primary har
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><b> As of September 20, 2023, I'm currently working on: </b>
+<p dir="auto"><b> As of October 15, 2023, I'm currently working on: </b>
 
 <li>
- Experimenting with TAK and Node-Red to integrate 911 CAD data into Cursor on Target mapping.
+ I'm brushing up on React skills to help keep my skills sharp.
 </li>
 
  <!--
@@ -41,6 +41,10 @@ Contining to learn React via a course at <a href="https://scrimba.com/learn/lear
 </ul>
 <h2 dir="auto"><a id="user-content-what-im-up-to" class="anchor" aria-hidden="true" href="#what-im-up-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Recently Completed... </h2>
 <ul dir="auto">
+
+<li>
+ ✅I recently experimented with TAK and Node-Red to simulate 911 CAD XML data into Cursor on Target mapping. I'm looking forward to doing this in real life when I can.
+</li>
 
 <li>
 ✅Fellow NSS alum, Gabe Guio, and I wrapped up a <a href="https://github.com/GabeGoesCoding/portfolio-website">portfolio website/template project</a> using React. With this template, I launched my personal portfolio website at <a href="https://www.alexdmurillo.com">www.alexdmurillo.com</a>. [Completed August 2023]</p>
