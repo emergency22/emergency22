@@ -43,6 +43,10 @@ Contining to learn React via a course at <a href="https://scrimba.com/learn/lear
 <ul dir="auto">
 
 <li>
+ ✅On October 26, I attended the GOTO EDA Day conference in Nashville. This conference covered Event Driven Architecture and relevant cloud computing services from Amazon Web Services.
+</li>
+
+<li>
  ✅I recently experimented with TAK and Node-Red to simulate 911 CAD XML data into Cursor on Target mapping. I'm looking forward to doing this in real life when I can.
 </li>
 
