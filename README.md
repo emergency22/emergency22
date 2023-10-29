@@ -17,10 +17,10 @@ I am proficient in utilizing emergency management software tools such as WebEOC,
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><b> As of October 15, 2023, I'm currently working on: </b>
+<p dir="auto"><b> As of October 29, 2023, I'm currently working on: </b>
 
 <li>
- I'm brushing up on React skills to help keep my skills sharp.
+ I'm continuing to brush up on React skills. Right now, I'm learning about my first react hook: "useState"
 </li>
 
  <!--
