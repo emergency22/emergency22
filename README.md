@@ -1,4 +1,4 @@
-☕ Java | Javascript | 💻 AWS Certified Cloud Practitioner | REST APIs |⚡SQL | React | TAK | 🌲 National Parks Enthusiast
+☕ Java | 🇯 Javascript | 💻 AWS Certified Cloud Practitioner | 🛏 REST APIs |⚡SQL | ⚛ React | 🌎 TAK | 🌲 National Parks Enthusiast
 <br>
 <br>
 Full Stack Developer with a background in the emergency services. My primary skills are Java, Javascript, SQL, React, HTML, CSS, REST APIs, Spring Boot, and AWS. My previous work history is in Emergency Management and as a First Responder, where I have a demonstrated ability to work in high-stress environments, collaborate well with others, and solve difficult problems. I am additionally adept at customer service, coordination, and leadership roles.
