@@ -4,8 +4,7 @@
 Full Stack Developer with a background in the emergency services. My primary skills are Java, Javascript, SQL, React, HTML, CSS, REST APIs, Spring Boot, and AWS. My previous work history is in Emergency Management and as a First Responder, where I have a demonstrated ability to work in high-stress environments, collaborate well with others, and solve difficult problems. I am additionally adept at customer service, coordination, and leadership roles.
 
 I am proficient in utilizing emergency management software tools such as WebEOC, ReadyOp, and TAK (WinTAK/ATAK). With my skills and background, I am ready to apply my expertise to innovative software projects. I am seeking roles in software development and support, cloud infrastructure, full stack development, and back end development.
-<br>
-<br>
+<br><br>
 <a href="https://www.linkedin.com/in/alexdmurillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 <a href="https://www.alexdmurillo.com">My Portfolio Website</a>
