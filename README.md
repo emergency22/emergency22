@@ -1,7 +1,7 @@
 ☕ Java | 🇯 Javascript | 💻 AWS Certified Cloud Practitioner | 🛏 REST APIs |⚡SQL | ⚛ React | 🌎 TAK | 🌲 National Parks Enthusiast
 <br>
 <br>
-Full Stack Developer with a background in the emergency services. My primary skills are Java, Javascript, SQL, React, HTML, CSS, REST APIs, Spring Boot, and AWS. My previous work history is in Emergency Management and as a First Responder, where I have a demonstrated ability to work in high-stress environments, collaborate well with others, and solve difficult problems. I am additionally adept at customer service, coordination, and leadership roles.
+Full Stack Developer with a background in the emergency services. My primary skills are Java, Javascript, SQL, React, HTML, CSS, REST APIs, and AWS. My previous work history is in Emergency Management and as a First Responder, where I have a demonstrated ability to work in high-stress environments, collaborate well with others, and solve difficult problems. I am additionally adept at customer service, coordination, and leadership roles.
 
 I am proficient in utilizing emergency management software tools such as WebEOC, ReadyOp, and TAK (WinTAK/ATAK). With my skills and background, I am ready to apply my expertise to innovative software projects. I am seeking roles in software development and support, cloud infrastructure, full stack development, and back end development.
 <br><br>
@@ -16,10 +16,10 @@ I am proficient in utilizing emergency management software tools such as WebEOC,
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><b> As of October 29, 2023, I'm currently working on: </b>
+<p dir="auto"><b> As of November 2023, I'm currently working on: </b>
 
 <li>
- I'm continuing to brush up on React skills. Right now, I'm learning about my first react hook: "useState"
+ I'm continuing to brush up on React skills, in addition to studying AWS Solutions Architect material on AWS Skill Builder. 
 </li>
 
  <!--
