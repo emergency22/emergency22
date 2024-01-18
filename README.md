@@ -1,9 +1,8 @@
-☕ Java | 🇯 Javascript | 💻 AWS Certified Cloud Practitioner | 🛏 REST APIs |⚡SQL | ⚛ React | 🌎 TAK | 🌲 National Parks Enthusiast
+☕ Java | 💻 AWS Certified Cloud Practitioner |⚡SQL | 🌎 TAK & ATAK | 🌲 National Parks Enthusiast
 <br>
 <br>
-Full Stack Developer with a background in the emergency services. My primary skills are Java, Javascript, SQL, React, HTML, CSS, REST APIs, and AWS. My previous work history is in Emergency Management and as a First Responder, where I have a demonstrated ability to work in high-stress environments, collaborate well with others, and solve difficult problems. I am additionally adept at customer service, coordination, and leadership roles.
+I am a software engineer with two bachelor's degrees and a background in public safety. My specialization lies in Java development and AWS technologies, demonstrated by designing and implementing comprehensive web services. I have a proven track record of contributing to public safety software projects and possess skills in Java, Javascript, HTML, CSS, SQL, and AWS services. With projects under my belt and having completed several rigorous software engineering educational milestones, I am currently in the process of making a full-time switch from emergency services to public safety software development.
 
-I am proficient in utilizing emergency management software tools such as WebEOC, ReadyOp, and TAK (WinTAK/ATAK). With my skills and background, I am ready to apply my expertise to innovative software projects. I am seeking roles in software development and support, cloud infrastructure, full stack development, and back end development.
 <br><br>
 <a href="https://www.linkedin.com/in/alexdmurillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
@@ -16,10 +15,10 @@ I am proficient in utilizing emergency management software tools such as WebEOC,
 <p dir="auto"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" style="user-select: text;">🚀</g-emoji> I’m currently studying: <a href="https://skillbuilder.aws/">AWS Skill Builder: Cloud Practitioner</a></p>
 </li>  -->
 
-<p dir="auto"><b> As of November 2023, I'm currently working on: </b>
+<p dir="auto"><b> As of January 2024, I'm currently working on: </b>
 
 <li>
- I'm continuing to brush up on React skills, in addition to studying AWS Solutions Architect material on AWS Skill Builder. 
+ I'm continuing to study AWS Solutions Architect material on AWS Skill Builder. 
 </li>
 
  <!--
